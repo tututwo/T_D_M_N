@@ -6,14 +6,14 @@ UIL member schools can earn State Champions at different sports in their confere
 ### Proposed Datasets: 
 1. Teacher salary after cost of living adjusted if possible
 2. Data on gifted programs?
-### Story
+### Target Audiences
 1. What do Dallas reader really want to know/would pay attention to when you tell them that we have some data about school in each school district?
 2. Why would Dallas readers want to know anything about Dallas school districts?
 3. Who are those readers?
 
-There are two groups of primary audiences for this dataset
-  * People who go to school: Families who have kids(not just atheletes)
-  * Education staff: teachers, school administrators
+**There are two groups of primary audiences for this dataset**
+  * People who go to school in Dallas school districts: Families who have kids(not just atheletes)
+  * Education staff working in Dallas school districts: teachers, school administrators
 
 
 
